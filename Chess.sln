@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chess", "Chess\Chess.vcxproj", "{9A9F7A37-4AF1-4630-9848-FB59EB0EE88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9F7A37-4AF1-4630-9848-FB59EB0EE88B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A9F7A37-4AF1-4630-9848-FB59EB0EE88B}.Debug|Win32.Build.0 = Debug|Win32
+		{9A9F7A37-4AF1-4630-9848-FB59EB0EE88B}.Release|Win32.ActiveCfg = Release|Win32
+		{9A9F7A37-4AF1-4630-9848-FB59EB0EE88B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
